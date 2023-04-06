@@ -51,8 +51,8 @@ $ npm run start:dev
 
 # The system will open on port:3000 - go to http://localhost:3000
 ```
-# 🐛 Achou algum problema?
-Se encontrar algum problema, por favor, me comunique [aqui](https://www.linkedin.com/in/tiagoabranges/).
+# 🐛 Found a problem?
+If you encounter any problems, please let me know [here](https://www.linkedin.com/in/tiagoabranges/).
 
 
 # 📝 License
